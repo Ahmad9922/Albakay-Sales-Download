@@ -6,8 +6,8 @@
 
 | النسخة | متى تختارها | التحميل |
 |---|---|---|
-| **الكاملة** | الحالة المعتادة: تثبّت SQL Server Express تلقائياً إن لم يكن على الحاسوب | [Albakay-Sales.zip](https://github.com/Ahmad9922/Albakay-Sales-Download/releases/latest/download/Albakay-Sales.zip) (نحو 830 MB) |
-| **بدون SQL Server** | حاسوب عليه SQL Server مثبت مسبقاً فقط | [Albakay-Sales-without-SQL-Server.zip](https://github.com/Ahmad9922/Albakay-Sales-Download/releases/latest/download/Albakay-Sales-without-SQL-Server.zip) (نحو 115 MB) |
+| **الكاملة** | الحالة المعتادة: تثبّت SQL Server Express تلقائياً إن لم يكن على الحاسوب | [Albakay-Sales.zip](https://github.com/Ahmad9922/Albakay-Sales-Download/releases/latest/download/Albakay-Sales.zip) (نحو 790 MB) |
+| **بدون SQL Server** | حاسوب عليه SQL Server مثبت مسبقاً فقط | [Albakay-Sales-without-SQL-Server.zip](https://github.com/Ahmad9922/Albakay-Sales-Download/releases/latest/download/Albakay-Sales-without-SQL-Server.zip) (نحو 75 MB) |
 
 إن لم تكن متأكداً، حمّل **النسخة الكاملة**.
 
@@ -32,8 +32,8 @@ Choose **one edition** and download it on the server computer:
 
 | Edition | When to choose it | Download |
 |---|---|---|
-| **Full** | The usual case: installs SQL Server Express when the computer does not have it | [Albakay-Sales.zip](https://github.com/Ahmad9922/Albakay-Sales-Download/releases/latest/download/Albakay-Sales.zip) (about 830 MB) |
-| **Without SQL Server** | Only for a computer that already has SQL Server | [Albakay-Sales-without-SQL-Server.zip](https://github.com/Ahmad9922/Albakay-Sales-Download/releases/latest/download/Albakay-Sales-without-SQL-Server.zip) (about 115 MB) |
+| **Full** | The usual case: installs SQL Server Express when the computer does not have it | [Albakay-Sales.zip](https://github.com/Ahmad9922/Albakay-Sales-Download/releases/latest/download/Albakay-Sales.zip) (about 790 MB) |
+| **Without SQL Server** | Only for a computer that already has SQL Server | [Albakay-Sales-without-SQL-Server.zip](https://github.com/Ahmad9922/Albakay-Sales-Download/releases/latest/download/Albakay-Sales-without-SQL-Server.zip) (about 75 MB) |
 
 If you are not sure, download the **full edition**.
 
