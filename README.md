@@ -21,6 +21,14 @@
 
 بعد التثبيت أرسل **معرّف الجهاز** الذي يظهر في نهاية التثبيت إلى المطوّر لإصدار مفتاح الترخيص.
 
+## تطبيق الهاتف منفرداً
+
+لتثبيت التطبيق على هاتف آخر أو تحديثه، افتح هذا الرابط من متصفح الهاتف نفسه، دون حاجة إلى الحزمة كاملة:
+
+[Albakay-Sales.apk](https://github.com/Ahmad9922/Albakay-Sales-Download/releases/latest/download/Albakay-Sales.apk) (نحو 90 MB)
+
+إن طلب الهاتف السماح بالتثبيت من مصادر غير معروفة فاسمح به للمتصفح. التحديث يُثبَّت فوق النسخة الموجودة ولا يمسح بياناتها.
+
 الإصدارات السابقة في صفحة [الإصدارات](https://github.com/Ahmad9922/Albakay-Sales-Download/releases).
 
 </div>
@@ -47,5 +55,13 @@ If you are not sure, download the **full edition**.
 5. Install **"4- Albakay Sales.apk"** on the phones.
 
 After installing, send the **device id** shown at the end of the setup to the developer for the license key.
+
+## The phone app on its own
+
+To install the app on another phone, or to update it, open this link in the phone's own browser, without the whole package:
+
+[Albakay-Sales.apk](https://github.com/Ahmad9922/Albakay-Sales-Download/releases/latest/download/Albakay-Sales.apk) (about 90 MB)
+
+If the phone asks to allow installing from unknown sources, allow it for the browser. An update installs over the app already there and keeps its data.
 
 Earlier versions are on the [releases](https://github.com/Ahmad9922/Albakay-Sales-Download/releases) page.
